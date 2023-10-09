@@ -1,0 +1,22 @@
+.formControl {
+  font-size: 15px;
+  width: 100%;
+  padding: 10px 10px;
+  border: none;
+  background-color: #161616;
+  margin-bottom: 20px;
+  border-bottom: 1px solid var(--grey);
+  border-radius: 1px;
+  outline: transparent;
+  color: var(--grey);
+}
+.btn {
+  color: #f9f9f9;
+  background-color: var(--hl-color);
+  border: none;
+  font-size: 14px;
+  padding: 12px var(--sm-spacing);
+  border-radius: 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
